@@ -1,0 +1,719 @@
+wbOID|lakeCode|lakeName|countyID|lakeDir|lakeSize
+1|RRO63|Red Rock Reservoir|63|4 miles north of Knoxville|15250
+2|RAT04|Rathbun Reservoir|4|8 miles northwest of Centerville|11000
+3|SAY77|Saylorville Reservoir|77|North edge of Des Moines|5950
+4|SPL30|Big Spirit Lake|30|1m N Spirit Lake|5684
+5|COR52|Coralville Reservoir|52|4 miles north of Iowa City|5280
+6|WOK30|West Okoboji Lake|30|northwest edge of Arnolds Park|3847
+7|CLE17|Clear Lake|17|south edge of Clear Lake|3684
+8|STL11|Storm Lake (incl Little Storm Lake)|11|south edge of Storm Lake|3097
+9|ODE58|Lake Odessa|58|5 miles east of Wapello|3000
+10|TUT32|Tuttle Lake|32|1 mile east, 2 miles north of Dolliver|2268
+11|EOK30|East Okoboji Lake|30|east edge of Okoboji|1835
+12|OCM86|Otter Creek Marsh|86|7 miles Southeast of Toledo|1642
+13|TRU21|Trumbull Lake|21|4 miles west, 5 miles north of Ruthven|1183
+14|LIS74|Lost Island Lake|74|3 miles north of Ruthven|1162
+15|SIL30|Silver Lake (Dickinson)|30|west edge of Lake Park|1041
+16|RIC95|Rice Lake|95|1 mile south, 1 mile east of Lake Mills|1000
+17|USS55|Union Slough (Smith Pool)|55|NULL|1000
+18|ELP98|Elk Creek Marsh|98|NULL|1000
+19|FIS74|Five Island Lake|74|north edge of Emmetsburg|973
+20|BMP12|Big Marsh|12|6m N Parkersburg|940
+21|BIW99|Big Wall Lake|99|NULL|935
+22|EAG41|Eagle Lake|41|NULL|906
+23|MAC52|Lake Macbride|52|4 miles West of Solon|889
+24|THM88|Three Mile Lake|88|3 miles northwest of Afton|880
+25|BIC77|Big Creek Lake|77|2 miles north of Polk City|814
+26|DBE43|DeSoto Bend|43|5 miles west of Missouri Valley|811
+27|IOW32|Iowa Lake|32|6 miles north of Armstrong|802
+28|DCL67|Decatur Lake|67|NULL|800
+29|BRS21|Barringer Slough|21|NULL|778
+30|MAN78|Lake Manawa|78|Southwest edge of Council Bluffs|747
+31|LRI27|Little River Watershed Lake|27|1 mile west of Leon|743
+32|BHA81|Black Hawk Lake|81|east edge of Lake View|729
+33|COL57|Chain-O-Lakes Area|57|2 miles East of Palo|700
+34|BRC94|Brushy Creek Lake|94|5 miles east of Lehigh|690
+35|ICA02|Lake Icaria|2|4 miles north of Corning|648
+36|SIL74|Silver Lake (Palo Alto)|74|2 miles west of Ayrshire|648
+37|TMI88|Twelve Mile Creek Lake|88|4 miles east of Creston|635
+38|LSP30|Little Spirit Lake|30|4 miles north of Orleans|604
+39|STW13|South Twin Lake|13|4 miles North of Rockwell City|600
+40|BRO97|Browns Lake|97|2 miles west of Salix|580
+41|SUG89|Lake Sugema|89|3 miles southwest of Keosauqua|574
+42|WIB97|Winnebago Bend Lake|97|NULL|555
+43|GIS49|Green Island Lake|49|1m E green Island|526
+44|CNM58|Cone Marsh|58|NULL|525
+45|RUL74|Rush Lake S.W.M.A.|74|NULL|522
+46|BIB67|Blackbird Bend|67|NULL|490
+47|HIG32|High Lake|32|6 miles east of Wallingford|467
+48|ROC50|Rock Creek Lake|50|4 miles northeast of Kellogg|466.2
+49|ELL99|Elm Lake|99|5 miles Northeast of Clarion|458
+50|NTW13|North Twin Lake|13|4 miles north of Rockwell City|453
+51|GSE23|Goose Lake|23|NULL|447
+52|PLC57|Pleasant Creek Lake|57|4 miles North of Palo|401
+53|LGR82|Lost Grove Lake|82|Six miles east of Eldridge|400
+54|SMA09|Sweet Marsh Seg. A|9|1m E Tripoli|390
+55|BAB67|Badger Lake|67|NULL|380
+56|WSW32|West Swan Lake S.W.M.A.|32|3m SE Gruver|379
+57|EHO30|East Hottes|30|NULL|378
+58|SBE97|Snyder Bend Lake|97|1 1/2 miles west of Salix|375
+59|SWA30|Swan Lake|30|2m N Superior|371
+60|ING32|Ingham Lake|32|6 miles east of Wallingford|357
+61|MDB67|Middle Decatur Lake|67|NULL|338
+62|GVA88|Green Valley Lake|88|2 1/2 miles northwest of Creston|338
+63|WOS20|West Lake (Osceola)|20|2 miles west of Osceola|320
+64|SIL98|Silver Lake (Worth)|98|10 miles west, 3 1/2 miles north of Northwood|316
+65|CAR78|Carter Lake|78|North edge of Carter Lake.|315
+66|DGS21|Dan Greene Slough|21|NULL|311
+67|WIS70|Wiese Slough|70|NULL|310
+68|DAR92|Lake Darling|92|4 miles west of Brighton|303
+69|TMI32|Twelve-Mile Lake|32|NULL|290
+70|WAP26|Lake Wapello|26|7 miles west of Drakesville|289
+71|ROC63|Roberts Creek Lake|63|6 miles northeast of Knoxville|288
+72|BAC61|Badger Creek Lake|61|5 miles southeast of Van Meter|276
+73|LIZ76|Lizard Lake|76|NULL|275
+74|BAB39|Bays Branch|39|2 miles southeast of Yale|270
+75|BLU67|Blue Lake|67|3 miles west of Onawa|269
+76|BDL54|Lake Belva Deer|54|5 miles northeast of Sigourney|264
+77|ELK21|Elk Lake|21|1 mile west, 3 miles south of Ruthven|261
+78|MSL49|Middle Sabula Lake|49|W edge Sabula|260
+79|41707|Martens Lake|9|1 mi E of Tripoli|255
+80|LGA30|Lower Gar Lake|30|½ mile south of Arnolds Park|251
+81|SUM88|Summit Lake|88|West edge of Creston|250
+82|LWA40|Little Wall Lake|40|1 1/2 miles south of Jewell|249
+83|MUS53|Muskrat Slough|53|3 miles West of Olin|245
+84|CRY41|Crystal Lake|41|north edge of Crystal Lake|244
+85|COR99|Lake Cornelia|99|3 1/2 miles north, 2 miles east of Clarion|243
+86|HAR95|Harmon Lake|95|NULL|241
+87|HEM85|Hendrickson Marsh|85|NULL|240
+88|KLU58|Klum Lake|58|NULL|240
+89|SMC09|Sweet Marsh Seg. C|9|NULL|235
+90|RRP77|Blue Heron Lake (Raccoon River Park)|77|southwest of West Des Moines; Raccoon River Park|232
+91|VEN17|Ventura Marsh|17|NULL|225
+92|VIR74|Virgin Lake|74|2 miles south of Ruthven|222
+93|CEN30|Center Lake|30|2 miles west, 1/2 miles south of Spirit Lake|220
+94|MYS95|Myre Slough|95|NULL|215
+95|BSL59|Brown''s Slough|59|7 miles southeast of Russell|210
+96|NCO59|North Colyn Marsh|59|4 miles south of Russell|200
+97|BUR55|Burt Lake|55|4 miles west, 8 miles north of Swea City|200
+98|HAI19|Nashua Impoundment (Cedar Lake)|19|Located on the east edge of Nashua.|200
+99|DMA77|Dale Maffitt Reservoir|77|6m SW Des Moines|200
+100|NAB03|New Albin Big Lake|3|NULL|200
+101|RWR82|Wapsipinicon River (Oxford Junct to Mississippi R)|82|NULL|66
+102|RTR22|Turkey River (below Clermont)|22|NULL|65
+103|RSR29|Skunk River (Coppock to Mississippi River)|29|NULL|65
+104|PAH60|Lake Pahoja|60|4 miles south, 2 miles west of Larchwood|65
+105|RMR43|Missouri River (Sioux City to Little Sioux)|43|NULL|64
+106|RSR91|South River|91|NULL|63
+107|RCR34|Cedar River (above Nashua)|34|NULL|63
+108|FMI10|Fontana Mill Lake|10|.5m S Hazleton|63
+109|LPI42|Lower Pine Lake|42|1/2 mile east of Eldora|62
+110|NEA27|Nine Eagles Lake|27|3 1/2 miles southeast of Davis City|62
+111|CRC47|Crawford Creek Impoundment|47|3 1/2 miles south of Battle Creek|62
+112|CAM96|Cardinal Marsh|96|NULL|62
+113|RDM89|Des Moines River (Ottumwa to Farmington)|89|NULL|61
+114|RMR36|Missouri River (Council Bluffs to state line)|36|NULL|61
+115|ATQ15|Atlantic Quarry Pond|15|NULL|60.9
+116|WAC80|Walnut Creek Marsh|80|5 miles southwest of Mt. Ayr|60
+117|RCR59|Chariton River (above Rathbun Lake)|59|NULL|60
+118|BLO87|Sands Timber Lake (Blockton Reservoir)|87|1 mile northwest of Blockton|60
+119|GSE57|Goose Pond|57|4 miles Southwest of Center Point|60
+120|JHH32|Jim Hall Habitat Area Wetland|32|NULL|60
+121|AWY07|Alice Wyth Lake|7|north edge of Waterloo|60
+122|SMI55|Lake Smith|55|3 miles north of Algona|59
+123|BWO40|Briggs Woods Lake|40|2 miles south of Webster City|59
+124|OTL90|Ottumwa Lagoon|90|Southeast edge of Ottumwa|59
+125|RSS63|South Skunk River (Cambridge to Pella)|63|NULL|58
+126|RSR34|Shell Rock River (above Greene)|34|NULL|58
+127|RLS43|Little Sioux River (Correctionville to Missouri R)|43|NULL|57
+128|RDM77|Des Moines River (Stratford to Saylorville Lake)|77|NULL|57
+129|RUI03|Upper Iowa River (below Decorah)|3|NULL|57
+130|RCR57|Cedar River (La Porte City to Cedar Rapids)|57|NULL|56
+131|GRL01|Greenfield Lake|1|1 mile southwest of Greenfield|56
+132|LTH82|Lake of the Hills|82|.25 miles west of Davenport (CCB)|55
+133|BWO07|Big Woods Lake|7|northwest edge of Cedar Falls|55
+134|AGR29|Allen Green Refuge Marsh|29|NULL|55
+135|RCR16|Cedar River (Cedar Rapids to Moscow)|16|NULL|55
+136|RRR84|Rock River|84|NULL|55
+137|RWR53|Wapsipinicon River (Troy Mills to Oxford Junction)|53|NULL|53
+138|RDM94|Des Moines River (Humboldt to Stratford)|94|NULL|53
+139|RYR03|Yellow River|3|NULL|53
+140|RMR78|Missouri River (Little Sioux to Council Bluffs)|78|NULL|53
+141|RWN69|West Nodaway River (above Villisca)|69|NULL|52
+142|RED46|East Fork Des Moines (Algona to Humboldt)|46|NULL|52
+143|KEC65|Keg Creek Lake|65|2 miles southwest of Pacific Junction|52
+144|SPR37|Spring Lake|37|4 miles northwest of Grand Junction|51
+145|IND89|Indian Lake|89|1 mile southwest of Farmington|51
+146|MCK88|McKinley Lake|88|NULL|50
+147|PLE30|Pleasant Lake|51|NULL|50
+148|RDM63|Des Moines River (Saylorville to Red Rock)|63|NULL|50
+149|RIR42|Iowa River (above Iowa Falls)|42|NULL|49
+150|RWD46|West Fork Des Moines (Emmetsburg to Humboldt)|46|NULL|48
+151|RDM90|Des Moines River (Red Rock to Ottumwa)|90|NULL|47
+152|RNS50|North Skunk River (above Lynnville)|50|NULL|46
+153|TFW89|Lake Miss (Tug Fork W)|89|5 miles southwest of Keosauqua|46
+154|STI66|Stacyville Impoundment|66|NULL|46
+155|BAB67|Badger Lake|94|4 1/2 miles north of Fort Dodge|45
+156|FUL65|Folsom Lake|65|2 miles west of Glenwood|45
+157|DUD06|Dudgeon Lake|6|2 miles North of Vinton.|45
+158|FOG80|Fogle Lake S.W.A.|80|½ mile west of Diagonal|44
+159|RNS62|North Skunk River (Lynnville to Rose Hill)|62|NULL|43
+160|COC77|Copper Creek|77|North side of University Ave. in Pleasant Hill along Four Mile Creek.|42.5
+161|PPF57|Prairie Park Fishery|57|1.5 miles SSE of Cargill on Otis Road, along the Cedar River in Cedar Rapids|42
+162|HAS30|Hale Slough|30|NULL|42
+163|CLM17|Clear Lake Marsh|17|NULL|41
+164|ASA09|Avenue of the Saints Pond|9|2m SW Waverly|41
+165|RGR27|Grand River|27|NULL|41
+166|STO21|Stolley Pit|21|NULL|40
+167|RWD74|West Fork Des Moines (state line to Emmetsburg)|74|NULL|40
+168|DIK38|Grundy County Lake|38|South side of Hwy 20 at Dike exit|40
+169|BLB17|Bluebill Lake|17|4 miles South of Clear Lake|40
+170|HUM93|Humeston Reservoir|93|1 mile north of Humeston|40
+171|HEN45|Lake Hendricks|45|Located 0.5 miles northeast of Riceville.|40
+172|WAL36|Waubonsie Access Lake|36|NULL|40
+173|YSM24|Yellow Smoke Park Lake|24|2 miles east, 2 miles north of Denison|40
+174|MEY96|Lake Meyer|96|Located 2.5 miles southwest of Calmar.|40
+175|UDB67|Upper Decatur Bend|67|NULL|40
+176|HAN06|Hannen Lake|6|4 miles Southwest of Blairstown|38
+177|CAS07|Casey Lake (aka Hickory Hills Lake)|7|12 miles south of Waterloo|37
+178|RER92|English River|92|NULL|37
+179|UGR30|Upper Gar Lake|30|east of Arnolds Park|36
+180|MIT07|Harold Getty Lake|7|Located in southeast Waterloo about 1 mile north of the intersection of Highway 20 and Highway 218. Follow Mitchell Street about 0.25 miles east from Highway 218 to the Riverview Recreation Area.|35
+181|DWW77|Des Moines Water Works Recharge Basins|77|George Flagg Pkwy. Des Moines|35
+182|ALL68|Albia (lower)|68|1 mile North of Albia|35
+183|RDM56|Des Moines River (Farmington to Keokuk)|56|NULL|35
+184|RBR78|Boyer River (Dunlap to Missouri River)|78|NULL|34
+185|MEA01|Meadow Lake|1|6 miles northeast of Greenfield|34
+186|BEA25|Beaver Lake|25|1 1/2 miles north of Dexter|34
+187|SIL28|Silver Lake (Delaware)|28|SE edge Delhi|34
+188|BAC97|Bacon Creek Lake|97|east edge of Sioux City|34
+189|HOO91|Hooper Area Pond|91|6 miles southwest of Indianola|33.8
+190|PIC73|Pierce Creek Pond|73|5 miles north of Shenandoah|33
+191|MTR01|Mormon Trail Lake|1|1 1/2 miles southeast of Bridgewater|33
+192|WPP85|Petersons Pit, West|85|4 miles northeast of Ames|33
+193|LHA68|La Hart Area Wetland|68|NULL|33
+194|RCR70|Cedar River (Moscow to Columbus Junction)|70|NULL|32
+195|LKM17|Lekwa Marsh|17|NULL|32
+196|CLO04|Lower Centerville Reservoir|4|2 miles south of Centerville|32
+197|ARR81|Arrowhead Lake|81|south side of Lake View|31
+198|RCR04|Chariton River (below Rathbun Lake)|4|NULL|31
+199|RRR77|Raccoon River (below Van Meter)|77|NULL|31
+200|RNR25|North Raccoon River (Perry to Van Meter)|25|NULL|31
+201|RI258|Iowa River (Columbus Junction to Mississippi R)|58|NULL|30
+202|RSS85|South Skunk River (Story City to Cambridge)|85|NULL|30
+203|NRA83|Nishna Bend R.A. Ponds|83|4 miles south of Harlan|30
+204|ART14|Artesian Lake|14|NULL|30
+205|RIL67|Rabbitt Island Lake|67|NULL|30
+206|SWA30|Swan Lake|52|4 miles Northwest of North Liberty|30
+207|SBS30|Sandbar Slough|30|NULL|30
+208|WIP59|Williamson Pond|59|2 miles east of Williamson|30
+209|RIR52|Iowa River (Coralville Lake to River Junction)|52|NULL|29
+210|DCR71|Dog Creek (Lake)|71|2 miles east, 1/2 miles south of Sutherland|28
+211|FOR36|Forney''s Lake S.W.M.A.|36|NULL|28
+212|MCS36|McPaul B Pond|36|2 miles south of Bartlett|28
+213|MEY07|Meyers Lake|7|Evansdale|27
+214|WIL43|Willow Lake|43|5 1/2 mile west of Woodbine|26
+215|KEP52|Kent Park Lake|52|2.5 miles West of Tiffin|26
+216|RSR12|Shell Rock River (Greene to Shell Rock)|12|NULL|26
+217|RWN73|West Nodaway River (Villisca to state line)|73|NULL|26
+218|MPL57|Mohawk Park Lake|57|NULL|26
+219|PLA09|Plainfield|9|NULL|25
+220|JKE50|Jacob Krumm Nature Preserve Lake (west)|50|6 miles southeast of Kellogg|25
+221|FM151|Bonnifield Lake|51|NULL|25
+222|NOD01|Nodaway Lake|1|2 miles southwest of Greenfield|25
+223|BEI87|Bedford Impoundment|87|NULL|25
+224|RYR03|Yellow River|3|T96N, R6W, S3 to T96N, R4W, S24|25
+225|SMP75|Silver Maple County Park Pond|75|NULL|25
+226|WIN87|Windmill Lake|87|3 1/2 miles east of New Market|24
+227|RAI82|Railroad Lake|82|.25 miles west of Davenport (CCB)|24
+228|CEN53|Central Park Lake|53|2 miles West of Center Junction|24
+229|RIR58|Iowa River (River Junction to Columbus Junction)|58|NULL|24
+230|MIC71|Mill Creek (Lake)|71|1 mile east of Paullina|23
+231|OEL33|Lake Oelwein|33|Located on the south edge of Oelwein.|23
+232|MOR94|Moorland Pond|94|NULL|23
+233|MWA17|McIntosh Wildlife Area|17|NULL|22
+234|BAR36|Bartlett Lake|36|½ mile west of Bartlett|22
+235|BHP81|Black Hawk Pits|81|1 1/2 miles south of Lake View|22
+236|BOL77|Lake Petoka|77|northeast edge of Bondurant|22
+237|SPR07|South Prairie Lake|7|NULL|22
+238|JCW08|Jay Carlson Pit (west)|8|3 miles west of Boone|22
+239|AUP68|Albia City Reservoir|68|1 mile north of Albia|22
+240|LKE89|Lacey Keosauqua Park Lake|89|1 mile southwest of Keosauqua|22
+241|ROG06|Rodgers Park Lake|6|3.5 miles Northwest of Vinton|22
+242|ESH41|Eldred Sherwood Lake|41|3 miles east, 1 mile north of Goodell|21
+243|BIG78|Big Lake (Including Gilbert''s Pond)|78|North 25th street exit off interstate 29. Nash Blvd to Big Lake Road. Northeast Council Bluffs.|21
+244|PET67|Peters Park|67|1 mile east of Rodney|21
+245|HWP57|Murphy Lake|57|1 mile Northwest of Bertram on the West side of Highway 13|20
+246|LPO81|L Pond|81|NULL|20
+247|CCP82|Crow Creek W.A. Lake|82|East edge of Mt. Joy|20
+248|PER36|Percival Lake|36|1 mile north of Percival|20
+249|IPP35|Interstate Park Lake|35|1 mile west, 2 mile south of I-35 & Hwy 3|20
+250|LCP17|Lime Creek Conservation Area Pond|17|NULL|20
+251|SSL24|Sunset Lake|24|NULL|20
+252|HML27|Home Lake|27|NULL|20
+253|FKI09|Frederika Impoundment|9|NULL|20
+254|SEY93|Seymour Reservoir|93|.5 miles south of Seymour|20
+255|NHP07|North Hartman Pond|7|N edge of Waterloo|20
+256|GFL54|Griffin Lake|54|SE Corner What Cheer (city)|20
+257|RSS62|South Skunk River (Pella to Rose Hill)|62|NULL|20
+258|AFT88|Afton City Reservoir|88|1 mile west of Afton|19
+259|MKH66|Marklam''s Pond|66|NULL|19
+260|GBE07|Green Belt Lake|7|W edge Waterloo|19
+261|SPR37|Spring Lake|18|south edge of Cherokee|18
+262|PSE37|Pound Pit|37|NULL|18
+263|ELE87|East Lake (Lenox)|87|1/2 mile north of Lenox|18
+264|WOA62|White Oak Conservation Area Lake|62|2 miles south of Rose Hill|18
+265|POL56|Pollmiller Park Lake|56|East edge of West Point|18
+266|COR02|West Lake Corning|2|North edge of Corning|18
+267|18323|Mariposa Lake|50|5 miles northeast of Newton|17.9
+268|FPP29|4th Pumping Plant (Iowa Slough Lake)|29|6 miles North and 5 miles East of Kingston|17
+269|WIL87|Wilson Park Lake|87|2 1/2 miles southeast of Lenox|17
+270|RRL07|Railroad Lake (Falls Access S.W.M.A.)|7|NULL|17
+271|PWA94|Prairie Pond W.A.|94|NULL|17
+272|WEP52|West Pond|52|NULL|16
+273|GCA64|Green Castle Lake|64|1 mile South of Ferguson|16
+274|ORI01|Orient Lake|1|1 mile southwest of Orient|16
+275|CSP15|Cold Springs Lake|15|1 mile south of Lewis.|16
+276|SBL27|Slip Bluff Lake|27|Decatur County, 2 miles northwest of Davis City|16
+277|BLK17|Black Pit|17|SW Edge Mason City|16
+278|SCN36|Scott Lake A|36|1 1/2 miles south of Bartlett|16
+279|AA169|Anderson Area Pond 1|69|East of Red Oak 2 miles.|16
+280|RIP80|Ringgold Management Area Ponds|80|11m SE Mt Ayr|15
+281|NEP11|Sturchler Pit (Newell Pit)|11|1 1/2 miles northwest of Newell|15
+282|TPN41|Torkelson Pit W.A. (north)|41|NULL|15
+283|BLP17|Blue Pit|17|southwest edge of Mason City|15
+284|PCP55|Plum Creek W.A. Pond|55|NULL|15
+285|STA67|I-29 Access Area borrow pit - DRY|67|NULL|15
+286|RWI62|Russell W.A. Pond|62|6m N Oskaloosa|15
+287|THO72|Thomas Pit|72|NULL|15
+288|SPP74|Sportsman Park Pond|74|NULL|15
+289|PJ.65|P.J. Lake|65|1 mile southwest of Pacific Junction|15
+290|COP68|Cottonwood Pits|68|2 miles south of Albia|15
+291|SUN30|Sunken Lake|30|NULL|15
+292|TMM10|Troy Mills Marsh|10|NULL|15
+293|PKN41|Pilot Knob Lake|41|3m E Forest City|15
+294|GRD20|Grade Lake|20|NULL|15
+295|GLE65|Glenwood Lake|65|East edge of Glenwood|15
+296|PGP36|Pinky''s Glen Pond|36|2 miles west of Tabor|15
+297|MAP83|Manteno Park Pond|83|8 miles northwest of Defiance|15
+298|LIN93|Lineville Reservoir|93|North edge of Lineville|15
+299|CAT95|Lake Catherine|95|6 miles west of Forest City|15
+300|GSE57|Goose Pond|52|NULL|15
+301|MHI65|Mile Hill Lake|65|2 miles west of Glenwood|14
+302|ARR78|Arrowhead Pond|78|1 1/2 miles southeast of Neola|14
+303|QPO20|Q Pond City Park|20|NW edge Osceola|14
+304|EOS20|East Lake (Osceola)|20|1/2 mile east of Osceola|14
+305|SPR39|Springbrook Lake|39|7 miles north of Guthrie Center|14
+306|BLN91|Banner Lake (north)|91|4 1/2 miles north of Indianola|14
+307|WHP55|Whittemore Pit|55|1.5m SE Whittemore|14
+308|ESC97|Southwood Conservation Area Pond (east)|97|1/2 mile west, 1/2 mile south of Smithland|14
+309|WSC97|Southwood Conservation Area Pond (west)|97|1/2 mile west, 1/2 mile south of Smithland|14
+310|ANK77|Ankeny Lake (DMACC)|77|Ankeny, DMACC Campus|13.8
+311|FDM77|Fort Des Moines Pond|77|NULL|13.6
+312|RVP84|Rock Valley Pit|84|Located in city park in Rock Valley|13
+313|JPP77|Jester Park Pond|77|NULL|13
+314|SCH28|Schram Pond|28|NULL|13
+315|LSP97|Little Sioux Park Lake|97|2 miles south of Correctionville|13
+316|ARB79|Arbor Lake|79|On the Southwest edge of Grinnell|13
+317|RDL34|Rudd Lake|34|East of Rudd.|12.4
+318|PET72|Peters Pit|72|NULL|12
+319|JOP67|Johnston Pit|67|1 mile east of Rodney|12
+320|ROP73|Ross Area Pit|73|8 miles southeast of Clarinda|12
+321|LAP18|Larson Lake|18|2 1/2 miles east, 2 miles north of Aurelia|12
+322|PBR35|Prairie Bridges Park Ponds|35|1m N of Ackley|12
+323|KIL23|Killdeer R.A. Lake|23|5 miles east of DeWitt|12
+324|KPN98|Kuennen''s Pit W.A. (north)|98|2 miles south, ½ mile east of Northwood|12
+325|KPS98|Kuennen''s Pit W.A. (south)|98|2 miles south, ½ mile east of Northwood|12
+326|BLS91|Banner Lake (south)|91|4 1/2 miles north of Indianola|12
+327|KOP10|Koutny Pond|10|2.5m SE Brandon|12
+328|ORE80|Mt. Ayr Old Reservoir|80|1/2 mile north of Mt. Ayr|12
+329|BLU82|Bluegrass Lake|82|.25 miles west of Davenport (CCB)|12
+330|OLD67|Oldham Lake|67|1 mile north of Soldier|12
+331|TFE89|Piper''s Pond (Tug Fork E)|89|5 miles southwest of Keosauqua|12
+332|LCG94|Lizard Creek Game Area Ponds|94|NULL|12
+333|SAP78|Saganaush Pond|78|On grounds of Western Historic Trails Center in western Council Bluffs, accessed via Richard Downing Ave.|12
+334|APW95|Ambroson Pit (west)|95|3 1/2 miles north of Forest City|11.3
+335|THY88|Thayer Lake|88|1 mile south of Thayer|11
+336|SAP67|Savery Pond|67|2 miles southeast of Moorhead|11
+337|LAM82|Lambach Lake|82|.25 miles west of Davenport|11
+338|MGR35|Maynes Grove Lake|35|5 miles south of Hampton|11
+339|NEL24|Nelson Park Lake|24|3 miles west, 3 miles north of Dow City|11
+340|TPN03|Paint Creek|3|Located in Yellow River State Forest, 3 miles west of Harpers Ferry off of State Forest Road or CR B25.|11
+341|BH107|Black Hawk Park Pond 1|7|NULL|11
+342|KSP70|Muscatine Slough (Kent-Stein Park)|70|SW edge Muscatine (city, oxbow)|11
+343|DC226|Davis County Pond 2 (S-NE)|26|NULL|11
+344|TWA03|Waterloo Creek|3|Streams runs through Dorchester along Waterloo Creek Drive and Highway 76.|10.5
+345|EGO90|East Greater Ottumwa Central Park Pond|90|Inside Ottumwa city limits|10.4
+346|FAP84|Fairview Area Impoundment|84|5 miles south, 3 miles west of Inwood|10
+347|FCL78|Farm Creek Lake|78|5 miles east of Carson|10
+348|HAE69|Hacklebarney East|69|4 miles north of Villisca|10
+349|MCP65|Malvern Pond (aka Bohner Pond)|65|West edge of Malvern|10
+350|NPR07|North Prairie Lake|7|SW edge of Cedar Falls|10
+351|PTL06|Polk Township Lake|6|5.5 miles Northwest of Urbana on west side of I-380|10
+352|DWP07|Deerwood Park Lake|7|NULL|10
+353|APE95|Ambroson Pit (east)|95|3 1/2 miles north of Forest City|10
+354|HEP31|Heritage Pond|31|N edge of Dubuque|10
+355|SCP21|Scharnberg Pond|21|3m E Everly|10
+356|CLA17|Clark Lake (Mike Zack W.A.)|17|4m SE of Mason City|10
+357|FAF17|Fin and Feather Lake|17|3 miles south, 1 mile east of Mason City|10
+358|MCN36|McPaul A Pond|36|2 miles south of Bartlett|10
+359|SBP55|St. Benedict W.A. Pond|55|2m SW St. Benedict|10
+360|EBG31|East Bergfeld|31|NULL|10
+361|SRO19|Split Rock Lake|19|Located 4 miles south and 2 miles west of Fredricksburg.|10
+362|NRA07|Cedar River N.R.A. Pond|7|NULL|10
+363|WAI33|Waucoma Impoundment|33|NULL|10
+364|BEN16|Bennett Lake|16|3 miles East of Bennett|10
+365|GUS11|Gustafson Lake|11|1 mile south of Sioux Rapids|10
+366|MOO47|Moorhead Park Pond|47|1/2 mile north of Ida Grove|10
+367|ARR81|Arrowhead Lake|90|3 miles east of Ottumwa|10
+368|CRP92|Crawford Pond|92|3 m N. Ainsworth|10
+369|UWA86|Union Grove W.A. Pond|86|4 miles South of Gladbrook. On Southwest corner of Union Grove State Park|10
+370|LAV36|Lake Virginia|36|5 miles west of Riverton.|10
+371|HAP53|Hale Ponds|53|NULL|9.5
+372|SGO90|South Greater Ottumwa Central Park Pond|90|Inside of Ottumwa city limits.|9.1
+373|CCO61|Criss Cove County Park Pond|61|7 miles south of Winterset|9
+374|BRG21|Brugeman Park Pond|21|NULL|9
+375|SJO43|St. John''s Lake|43|5 miles northwest of Missouri Valley.|9
+376|AIR19|Airport Lake|19|Located 2 miles northwest of New Hampton.|9
+377|YEN54|Yenruogis Pond|54|2 miles north of Sigourney|9
+378|CHA56|Chatfield Lake|56|3 miles northwest of Keokuk|9
+379|MAL23|Malone Park Pond|23|5 miles east of DeWitt|9
+380|DCP43|Dunlap Pond|43|East edge of Dunlap|9
+381|EWP52|Ewalt Pond|52|NULL|9
+382|RNR81|North Raccoon River (above Auburn)|81|NULL|9
+383|TMR22|Maquoketa River (trout portion)|22|The Upper Maquoketa River from Joy Springs downstream to Backbone Lake contains trout year-round. The area 3 miles southwest of Strawberry Point off 400th is stocked with catchable fish.|8
+384|MER45|Merrick Pond|45|NULL|8
+385|WIL56|Wilson Lake|56|4 miles east of Donnellson|8
+386|CFF15|Cocklin Fish Farm|15|2 miles north of Griswold|8
+387|NWP15|Nodaway W.A. Pond|15|4 miles southwest of Massena|8
+388|FIS07|Fisher Lake|7|N edge Waterloo|8
+389|SHP07|South Hartman Pond|7|N edge of Waterloo|8
+390|PRA42|Pine Ridge R.A. Lake|42|NULL|8
+391|HIW13|Highway 4 R.A. Pond|13|SW Edge Rockwell City|8
+392|SCS36|Scott Lake B|36|1 1/2 miles south of Bartlett|8
+393|ASH72|Ashton Pits Wildlife Management Area|72|NULL|8
+394|MCP85|McFarland Pond|85|4m NE Ames|8
+395|TUR07|Turkey Ridge|7|NULL|7.8
+396|DLP79|Diamond Lake Pond|79|1 mile west of Montezuma|7
+397|DCW61|Deer Creek Wildlife Unit Pond|61|NULL|7
+398|SW159|Stephen''s Forest Whitebreast Pond 1|59|NULL|7
+399|MCB63|Knoxville Pond|63|1m SW Knoxville|7
+400|TOW63|Tower Pond|63|NULL|7
+401|MCL64|Marshall County Lake|64|4 miles West of Marshalltown|7
+402|PIP73|Pioneer Park Pond|73|10m N Clarinda|7
+403|MPL92|Marr Park Lake|92|1 mile west of Ainsworth|7
+404|THW11|Three Waters W.A. Lake|11|2m W, 3m N Newell|7
+405|DOP71|Douma Area Pond|71|2 miles west, 1 mile south of Sanborn|7
+406|KWA17|Kuhn W.A. Quarry|17|NULL|7
+407|SWA21|Schmerse W.A. Pond|21|NULL|7
+408|WIN84|Winterfield Pond (aka Van Zee Pit)|84|N edge Rock Valley|7
+409|MYS04|Mystic Reservoir|4|N Edge Mystic|7
+410|HM107|Singing Bird Lake|7|NULL|7
+411|GIL33|Gilbertson Area Lake|33|Located east of Elgin off of county highway B64.|7
+412|HAP23|Hagenson Pond|23|.25 m S Folletts|7
+413|WOP56|White Oak|56|2 miles east of Farmington.|7
+414|BNP56|Bitternut|56|3 miles north of Farmington|7
+415|SMI43|Sawmill Hollow W.A. Pond|43|4 miles southwest of Magnolia|7
+416|SCH43|Schley Park Pond|43|1 mile east Persia|7
+417|AHP24|Ahart/Rudd N.R.A. Pond|24|1m W 1.5m S Dow City|7
+418|TBR22|Bloody Run Creek|22|Located 2 miles west of Marquette off of Highway 18.|6.5
+419|APM95|Ambroson Pit (middle)|95|3 1/2 miles north of Forest City|6.3
+420|MWA74|Mulroney Recreation W.A. Pond|74|NULL|6
+421|ORA84|Otter Creek R.A. Pond|84|4.5m N Boyden on L14|6
+422|DIC08|Dickcissell Lake|8|4m E Boone|6
+423|DAK85|Dakin Lake|85|2m NE Zearing|6
+424|TMI77|Thomas Mitchell Lake|77|3m SW Mitchelville|6
+425|AWA81|Almer Noyd W.A. Pit|81|NULL|6
+426|RIP24|Newcom/Riggelman N.R.A. Pond|24|NULL|6
+427|BOP56|Black Oak|56|2 miles northeast of Farmington|6
+428|SHP56|Shagbark|56|6 miles northeast of Farmington|6
+429|GRW14|Great Western Park Lake|14|¼ mile west of Manning|6
+430|FTP07|Fox Township W.A. Pond|7|NULL|6
+431|WNG06|Winegar Lake|6|9 miles North of Vinton|6
+432|CCL70|Chicken Creek Lake|70|8 m NW Muscatine (CCB)|6
+433|TNB96|North Bear Creek|96|Located 2.5 miles northeast of Highlandville.|6
+434|WGO90|West Greater Ottumwa Central Park Pond|90|NULL|5.82
+435|TFR03|French Creek|3|Located on French Creek Wildlife Management Area and private land 6 miles northeast of Waukon.|5.6
+436|TSB96|South Bear Creek|96|Located at Highlandville.|5.2
+437|TTR96|Trout River|96|Located 5 miles southeast of Decorah off of 133rd Avenue.|5
+438|MVQ57|Mount Vernon Quarry|57|Between Mount Vernon and Lisbon on the north side of Highway 30.|5
+439|DOP52|Dovetail Pond|52|NULL|5
+440|LAP48|Lake Iowa Pond|48|NULL|5
+441|RIP78|Riepe Pond|78|NULL|5
+442|COD82|Cody Lake|82|NULL|5
+443|YBA77|Yellow Banks Park Pond|77|SE edge Des Moines|5
+444|FOR76|Fonda Reservoir|76|NULL|5
+445|GAP80|Mt. Ayr Game Area Ponds|80|5m SW Mt Ayr|5
+446|HIP75|Hillview R.A. Pond|75|2m W Hinton|5
+447|NRA71|Negus Recreation Area Pond|71|NULL|5
+448|LJC67|Loess Hills State Forest - Jones Creek|67|NULL|5
+449|PGP69|Pilot Grove Lake|69|5 miles east of Elliott|5
+450|VGP58|Virginia Grove R.A. Pond|58|4 miles northwest of Morning Sun|5
+451|SCP84|Sioux Center Pit|84|NULL|5
+452|ARP84|Alton Roadside Park Pond|84|.5m N Alton|5
+453|MCP72|May City Pit|72|NULL|5
+454|CVQ16|Cedar Valley Park Quarries|16|7.5 miles Southwest of Tipton|5
+455|MEI42|Meiers Access|42|NULL|5
+456|SHP35|Sheffield G.M.A. Pond|35|NULL|5
+457|TOP35|Toft Pit|35|NULL|5
+458|HAP95|Hadacek R.A. Pond|95|NULL|5
+459|WOC98|Worth County Lake|98|2m NE Kensett|5
+460|LPP30|Lake Park Pond|30|NULL|5
+461|GED70|Gedney Lake|70|NULL|5
+462|TWP07|Thunder Woman Park Pond|7|NULL|5
+463|SPR37|Spring Lake|2|NULL|5
+464|TSM22|Sny Magill Creek|22|Located in the Sny Magill Wildlife Management Area, 3 miles southwest of McGregor along Keystone Road.|5
+465|MMI33|Mare Mard Impoundment|33|NULL|5
+466|APP12|Aplington Pits|12|NULL|5
+467|WAP13|Calhoun W.A. Pond|13|NULL|5
+468|CPP07|City Park Pond (Waterloo)|7|NULL|5
+469|DKP21|Dicken''s Pit|21|NULL|5
+470|GP154|Griffin Pond #1|54|NULL|5
+471|SCP43|Schaben Pond|43|5 1/2 miles northeast of Woodbine|5
+472|WA257|Wakpicada Natural Area Pit 2|57|1 mile South of Central City|5
+473|HAW69|Hacklebarney West|69|4 miles north of Villisca|4.8
+474|APN95|Ambroson Pit (north)|95|3 1/2 miles north of Forest City|4.28
+475|TCO96|Coldwater Creek|96|Located 3 miles northwest of Bluffton off of Coldwater Creek Road.|4
+476|LCP52|Liberty Centre Pond|52|NULL|4
+477|WIL63|Wilcox W.A. Pond|63|4m E Attica|4
+478|SPE83|Speery Pond|83|Within Harlan City limits.|4
+479|GWA88|Groesbeck W.A. Lake|88|NULL|4
+480|THI88|Talmadge Hill Lake/Marsh|88|5m E Afton|4
+481|EGA26|Eldon Game Area Ponds|26|NULL|4
+482|DSB43|DeSoto Bend Pond|43|Located within Desoto Bend National Wildlife Refuge. 5 miles west of Missouri Valley.|4
+483|OC172|Ocheyedan Pit #1|72|2 miles south of Ocheydan|4
+484|MPP76|Meredith Park Pond|76|1.5m N Plover|4
+485|JPP51|Jefferson Co. Park New Pond|51|Southwest edge of Fairfield|4
+486|GRP20|Green Pines W.A. Pond|20|NULL|4
+487|DKV26|Drakesville Ponds|26|NULL|4
+488|RCP80|Ringgold CCB Ponds|80|1 Mile north of Mount Ayr|3.5
+489|TC203|Clear Creek (put and grow)|3|Located on Clear Creek Wildlife Management Area, 4 miles east of Dorchester along Sleepy Hollow Drive.|3.4
+490|HOR09|Horton Pond|9|NULL|3.3
+491|TL228|Little Turkey River (put and grow)|28|4 miles east of Colesburg off Hubbard Road|3.2
+492|TLP03|Little Paint|3|Located in Yellow River State Forest, 3 miles west of Harpers Ferry just off of State Forest Road or CR B25.|3
+493|TRP10|Triangle Park Pond|10|NULL|3
+494|FOP52|Fox Run Pond|52|NULL|3
+495|BRP52|Broodmoor Pond|52|NULL|3
+496|OGP84|Oak Grove Pond|84|Located in Oak Grove County Park|3
+497|TJP71|Tjossem Pond|71|NULL|3
+498|LPP60|Locker Park Pond|60|Located in city park in George|3
+499|OBP22|Osborne Pond|22|Located 4.5 miles southwest of Elkader on Highway 13.|3
+500|DDT14|Daniel Davis Timber Pond|14|NULL|3
+501|IRN15|Iranistan Pond|15|5 1/2 miles north of Griswold|3
+502|RPQ51|Round Prairie Park Quarry Pond|51|NULL|3
+503|TPP45|Taylor Park Pond|45|Located 3 miles northwest of Protivin.|3
+504|WMB48|Williamsburg Pond|48|In the town of Williamsburg|3
+505|GP254|Griffin Pond #2|54|NULL|3
+506|HUR55|Hurlburt W.A. Pond|55|NULL|3
+507|SCA10|Sand Creek Access Area Lake|10|NULL|3
+508|WAU03|Waukon Pond|3|Located on the south end of town.|3
+509|LEM75|LeMars Pit|75|NULL|3
+510|SCH47|School Pond|47|NULL|3
+511|LDL67|Lower Decatur Lake|67|NULL|3
+512|NGO90|North Greater Ottumwa Central Park Pond|90|Inside Ottumwa city limits|3
+513|ODE82|Pride Lake|82|NULL|3
+514|GEO65|Lake George|65|NULL|3
+515|PLE63|Pleasantville Pond|63|NULL|3
+516|SNP63|Sand Pit|63|NULL|3
+517|FFP61|Fellowship Forest Pond|61|NULL|3
+518|CBP70|Cedar Bluffs R.A. Ponds|70|NULL|3
+519|WWP67|Whiting Woods Pond|67|NULL|3
+520|FPP95|Florence Park Pond|95|NULL|3
+521|MPL97|Midway Park Lake|97|3m NE Moville|3
+522|WLE87|West Lake (Lenox)|87|1 mile north of Lenox|3
+523|SFP12|South Fork Park Pond|12|NULL|3
+524|WGN09|Wilson Grove North|9|NULL|3
+525|WGS09|Wilson Grove South|9|NULL|3
+526|TCN96|Coon Creek|96|Located in Coon Creek Wildlife Management Area, 7 miles northeast of Decorah.|2.6
+527|TPI03|Pine Creek|3|Located on Pine Creek Wildlife Management Area, 2 miles northeast of Sattre on Balsam Road or CR W60.|2.5
+528|TOT33|Otter Creek|33|Located 3 miles southeast of West Union.|2.5
+529|TWR66|Wapsi River Trout Section|66|Located 0.5 mile west of McIntire.|2.5
+530|NRP52|North Ridge Park Pond|52|Along I-80 in Coralville|2.5
+531|SIP25|Siglund Pond|25|NULL|2.4
+532|FRP52|Freedom Pond|52|NULL|2.3
+533|TFS28|Fountain Springs|28|2.5 miles northeast of Greeley along Oak Road. Most of the fishery lies within Fountain Springs County Park|2.3
+534|TSB28|Spring Branch|28|3 miles east-southeast of Manchester off 205th Avenue. Parking available near highway 20 overpass and Manchester Fish Hatchery|2.2
+535|TTU66|Turtle Creek|66|Located about 1/2 mile north of St. Ansgar off of Highway 218.|2.2
+536|TRU96|Trout Run|96|Located on the south side of Decorah off Trout Run Road.|2.2
+537|TS231|Upper Swiss Valley Creek|31|Located 3 miles south of Dubuque near Swiss Valley Nature Center, just off Swiss Valley Road|2.1
+538|TBO66|Burr Oak Creek|66|Stream located just north of Osage. T98N, R16W, S4, 5, 9, 10|2
+539|TNC22|North Cedar Creek|22|Located 3 miles west of McGregor off of CR B60 or Ivory Road.|2
+540|TCL03|Clear Creek|3|Stream runs along Highway 9 through Lansing. Public angling access is at the County Park located off South Road Drive.|2
+541|TSP96|South Pine Creek|96|Located 1.5 miles southeast of Sattre.|2
+542|OAP52|Oakdale Ponds|52|NULL|2
+543|GAP44|Gibson Area Pond|44|E of Oakland Mills (Henry CCB)|2
+544|WP156|Wilson Pond #1|56|NULL|2
+545|DAL49|Dalton Lake|49|1m SE Preston|2
+546|RPE51|Round Prairie Park Entry Pond|51|12 m SE Fairfield|2
+547|ROP38|Rodman Park Ponds|38|2 miles West of Dike|2
+548|JWA21|James W.A. Lake|21|NULL|2
+549|RKW17|Rockwell Pond|17|NULL|2
+550|WIP17|Wilkinson Pioneer Park Pond|17|1m SW of Rock Falls|2
+551|PJP35|Pope Joy Pond|35|NULL|2
+552|GWR29|Gahn Wildlife Refuge Pond|29|NW of West Burlington, 1 Mi N of Highway 34|2
+553|GOP29|Gorge Pond|29|5 m W Sperry|2
+554|SKR29|Lake Starker|29|NULL|2
+555|LEA29|Leaky Pond|29|5 m W Sperry|2
+556|LIN29|Linder Pond|29|5 m W Sperry|2
+557|YRP03|Yellow River Pond|3|NULL|2
+558|NAB05|Nabotna Pond|5|NULL|2
+559|HM207|Hope Martin Pond|7|NULL|2
+560|RBM07|Roger Birdsall Memorial Park Lake|7|NULL|2
+561|BVP82|Buena Vista Public Use Area Ponds|82|NULL|2
+562|BH207|Black Hawk Park Pond 2|7|NULL|2
+563|WHP07|West Hartman Pond|7|NULL|2
+564|CON12|Lake Considine|12|NULL|2
+565|OLE94|Lake Ole|94|NULL|2
+566|SPP12|Sportsman''s Pond|12|NULL|2
+567|SSP97|Stone State Park Pond|97|NULL|2
+568|MPR90|Pioneer Ridge Nature Area Pond (middle)|90|NULL|2
+569|CCP92|Clemons Creek Area Pond|92|2 mi W of Washinton, CCB|2
+570|CAR68|Carmack Park Pond|68|2m W Lovilia|2
+571|COO76|Cooper''s Cove Park Pond|76|7m E Palmer|2
+572|BAP63|Bauer Park|63|4m W Melcher_Dallas|2
+573|NCP70|Environmental Discovery Park South Pond|70|Muscatine CCB, E of Muscatine|2
+574|CWP58|Cairo Woods Pond|58|NULL|2
+575|CCI57|Central City Ponds|57|NULL|2
+576|BDC61|Badger Creek Pond|61|6m SE Van Meter|2
+577|EHC83|Elk Horn Creek Pond|83|NULL|2
+578|LGP83|Little George Pond|83|South edge of Harlan|2
+579|ELD90|Eldon Pond|90|NULL|2
+580|CAM85|Cambridge Pond|85|NULL|2
+581|SSP96|Silver Springs Pond|96|NULL|2
+582|HUR49|Hurstville Pond|49|1 m N Maaquoketa|2
+583|FPP34|Fossil Park Pond|34|Located 1 mile west of Rockford.|2
+584|WPP30|Westport Park Pond|30|NULL|2
+585|FPP84|Floyd Park Pit|84|NULL|2
+586|NWA84|Nassau W.A. Pond|84|NULL|2
+587|APP72|Ashton Park Pond|72|NULL|2
+588|IRP52|Iowa River Landing Pond|52|NULL|1.9
+589|TBR49|Brush Creek|49|Located 2 miles norteast of Andrew just south of 261st street.|1.9
+590|TWP31|White Pine Hollow|31|This fishery is located primarily within White Pine Hollow State preserve, about 2 miles northwest of Luxemburg. Access to this fishery is difficult. A small parking area is available on the east side of the preserve. Best fishing is on the west side.|1.8
+591|GP144|Lake Geode Pond #1|44|NULL|1.7
+592|GP344|Lake Geode Pond #3|44|NULL|1.7
+593|FVP52|Fox Valley Pond|52|NULL|1.7
+594|D1592|Lake Darling Watershed Pond 15|92|NULL|1.7
+595|TBU22|Buck Creek|22|Located 3 miles northeast of Garnavillo.|1.7
+596|TBR49|Brush Creek|33|Located in Brush Creek Canyon State Preserve, 1.5 miles north of Arlington off of CR C2W or 90th Street.|1.6
+597|TGR33|Grannis Creek|33|Located in Grannis Creek Wildlife Management Area, 3.5 miles southeast of Fayette off of Grannis Road.|1.5
+598|THI03|Hickory Creek|3|Located 1 mile southwest of Volney off of Hickory Creek Road.|1.5
+599|TCS96|Casey Springs|96|Stream located north of Decorah. T99N, R9W, S25, 26|1.5
+600|MWP23|McAndrews Wildlife Area Pond|23|NULL|1.5
+601|NHP19|New Hampton Pond (Garnant)|19|On South 4th Ave|1.5
+602|WWP51|Whitham Woods Pond|51|1 m W Fairfield|1.5
+603|D0892|Lake Darling Watershed Pond 8|92|NULL|1.45
+604|TPA03|Patterson Creek|3|Stream located 4 miles northwest of Waukon.|1.4
+605|TRS28|Richmond Springs|28|3 miles south of Strawberry Point. Located entirely within Backbone State Park. Closest to north park gate access.|1.4
+606|TWE03|Wexford Creek|3|Located 5 miles north of Harpers Ferry on the Great River Road or CR X52.|1.4
+607|TEH22|Hewett and Ensign Creeks (Ensign Hollow)|22|Located on Ensign Hollow Wildlife Management Area about 5 miles north of Strawberry Point. Access is provided on the north side of 322nd street.|1.3
+608|TMB96|Middle Bear Creek|96|Stream located 7 miles northeast of Highlandville. T100N, R7W, S14, 15, 16|1.3
+609|TBE33|Bear Creek|33|Located 6 miles southeast of Fayette off of Kornhill Road or CR C24. Access from 128th Street.|1.2
+610|TGH28|Grimes Hollow|28|1.5 mile east of Colesburg off Hubbard Road. T90N-R3W; Sections 2, 3.|1.2
+611|TLT28|Little Turkey River|28|3 miles east of Colesburg in Hoffman Wildlife Managment Area off Hubbard Road|1.2
+612|D1192|Lake Darling Watershed Pond 11|92|NULL|1.16
+613|TSM49|South Fork Mill Creek|49|Located in Big Mill Wildlife Management Area between Bellevue-Cascade Road and Mill Creek road about 4 miles west of Bellevue.|1.1
+614|TTM49|Tete des Morts River|49|Located near St. Donatus. T87N, R3E, S4|1.1
+615|DYP92|Darling Youth Camp pond|92|NULL|1.08
+616|D1292|Lake Darling Watershed Pond 12|92|NULL|1
+617|BEP49|Bellevue Pond|49|South edge of Bellevue, near Bellevue State Park|1
+618|GP444|Lake Geode Pond #4|44|NULL|1
+619|GP544|Lake Geode Pond #5|44|NULL|1
+620|GP644|Lake Geode Pond #6|44|NULL|1
+621|TWC96|West Canoe Creek|96|Located 5.5 miles north of Decorah off CR W34.|1
+622|TTR22|Turkey River|22|Located 6 miles northwest of Elkader at Big Spring Hatchery.|1
+623|TLM31|Little Maquoketa|31|T88N - R1W; Sections 3, 4, and 5|1
+624|RKF17|Rockfall Pond|17|NULL|1
+625|MCP11|Marathon City Park Pond|11|NULL|1
+626|ZIL51|Zilman''s Pond|51|NULL|1
+627|STP38|Stoehr Lake (Wellsburg)|38|4 miles Southeast of Wellsburg|1
+628|SWP39|Sutcliff Woodland Pond|39|North of Adair 10 miles.|1
+629|ELP44|East Lake Park|44|Mount Pleasant - city park|1
+630|WP256|Wilson Pond #2|56|NULL|1
+631|BD154|Belvadeer Park Pond #1|54|5 miles Northeast of Sigourney|1
+632|BD254|Belvadeer Park Pond #2|54|5 miles Northeast of Sigourney in the campground|1
+633|BD354|Belvadeer Park Pond #3|54|5 miles Northeast of Sigourney in the campground|1
+634|BMP17|Blair Meadows Preserve Pond|17|NULL|1
+635|MCE17|Mason City E Park Pond|17|NULL|1
+636|RCP13|Rockwell City City Pond|13|NULL|1
+637|SHD29|Shelter D|29|5 m W Sperry|1
+638|SHE29|Shelter E|29|5 m W Sperry|1
+639|RBS35|Robinsons Pond|35|NULL|1
+640|SMP22|Sny Magill Ponds (3)|22|NULL|1
+641|WA157|Wakpicada Natural Area Pit 1|57|1 mile South of Central City|1
+642|PHP80|Poe Hollow Park Pond|80|NULL|1
+643|MMP85|Moore Memorial Park Pond|85|NULL|1
+644|RWA85|Robison Wildlife Acres Pond|85|NULL|1
+645|CWA86|Columbia W.A. Pond|86|4 miles Southeast of Tama|1
+646|EPR90|Pioneer Ridge Nature Area Pond (east)|90|NULL|1
+647|MMP89|Morris Memorial Park Pond|89|NULL|1
+648|SCP83|Schimeroski Pond|83|East edge of Earling|1
+649|JRA81|Jana R.A. Pit|81|NULL|1
+650|RPP81|Reiff Park Pond|81|NULL|1
+651|NRP76|Northwest Recreational Park Pond|76|SE edge Laurens|1
+652|FGP80|Fife''s Grove Park Pond|80|NULL|1
+653|KRA80|Kokesh R.A. Pond|80|NULL|1
+654|SCP57|South Cedar Pond|57|NULL|1
+655|EDM62|Edmunson Pond|62|NULL|1
+656|MWA75|Meadow W.A. Pond|75|NULL|1
+657|SEW75|Southeast Wildwood Park Pond|75|NULL|1
+658|DPP70|Environmental Discovery Park North Pond|70|Muscatine CCB, E of Muscatine|1
+659|DCP92|Darling Campground pond|92|Lake Darling State Park|1
+660|FWP92|Foster Woods Pond|92|1.5 m SW Wellman|1
+661|IOT92|Iowa Township Pond|92|.5 m N Riverside|1
+662|GNL91|Grant Nature Land Pond|91|NULL|1
+663|HHP91|Hickory Hills Park Pond|91|NULL|1
+664|WPR90|Pioneer Ridge Nature Area Pond (west)|90|NULL|1
+665|MPP92|Marr Park Pond|92|1 mile west of Ainsworth.|1
+666|SP192|Schmitter Pond (north)|92|NULL|1
+667|SP292|Schmitter Pond (south)|92|NULL|1
+668|SRP92|Sokum Ridge Pond|92|5 m S Washington|1
+669|D1992|Lake Darling Watershed Pond 19|92|NULL|0.97
+670|TBM49|Big Mill Creek|49|Located on Big Mill Wildlife Management Area, 4.5 miles west of Bellevue just south of Mill Creek Road.|0.9
+671|TMI33|Mink Creek|33|Located on private property 1.5 miles north of Wadena, access on Bighorn Road.|0.9
+672|TTB28|Twin Bridges|28|Just south of Highway 3 about 5.5 miles west of Colesburg in Twin Bridges County Park|0.9
+673|D1392|Lake Darling Watershed Pond 13|92|NULL|0.81
+674|D1492|Lake Darling Watershed Pond 14|92|NULL|0.8
+675|D0692|Lake Darling Watershed Pond 6|92|NULL|0.8
+676|MAP56|Martens Pond|56|Just off highway 2 in Shimek State Forest|0.8
+677|TSF28|Spring Falls|28|T90N - R4W; sections 1, 2, 12|0.8
+678|TJS22|Joy Springs|22|South on Alpha Ave, off Highway 3 about 3 miles west of Strawberry Point in Joy Springs County Park.|0.8
+679|TSV31|Lower Swiss Valley Creek|31|Located 3 miles south of Dubuque in Swiss Valley Park just off Swiss Valley Road|0.8
+680|TGL33|Glovers Creek|33|Access in Echo Valley State Park, about 3 miles southeast of West Union.|0.8
+681|TSP66|Spring Creek|66|Located on the west edge of Orchard.|0.8
+682|TMI22|Miners Creek|22|Stream is located west of Guttenberg. T92N, R2W, S7, 18 and T29N, R3W, S12|0.8
+683|PIP73|Pioneer Park Pond|83|Located within Harlan city limits|0.75
+684|STM52|S.T. Morrison|52|NULL|0.75
+685|TLM49|Little Mill Creek|49|Located on Little Mill Wildlife Managment Area and private property 2 miles west of Bellevue, with parking south off 216th street.|0.7
+686|TOS49|Ozark Springs|49|T86N - R1E; Section 32|0.7
+687|D0792|Lake Darling Watershed Pond 7|92|NULL|0.61
+688|D1692|Lake Darling Watershed Pond 16|92|NULL|0.6
+689|TBI45|Bigalk Creek|45|Located 7 miles northeast of Cresco.|0.6
+690|TTT49|tributaries to Tete des Morts River|49|Located near St. Donatus. T87N, R3E, S16, 17, 23|0.6
+691|TBF28|Baileys Ford|28|3 miles southeast of Manchester - follow signage from Jefferson Road.|0.6
+692|TBA31|Bankston Creek|31|Just south of Park Hollow Road, 3 miles north of Bankston in Bankston County Park|0.6
+693|D1792|Lake Darling Watershed Pond 17|92|NULL|0.59
+694|D2392|Lake Darling Watershed Pond 23|92|NULL|0.57
+695|D2092|Lake Darling Watershed Pond 20|92|NULL|0.53
+696|TBE33|Bear Creek|22|Bixby State Preserve, 2 miles north of Edgewood just east of Fortune Road.|0.5
+697|TSC22|South Cedar Creek|22|Located 2 miles south of Garnavillo and may be accessed from Jigsaw Road.|0.5
+698|TMG22|Mossy Glen|22|5 miles northwest of Edgewood at the termination of the Level B portion of Eagle Ave. Road damage from weather has made access to this site difficult for all vehicles. Not recommended for low-clearance or 2-wheel drives.|0.5
+699|TNC96|North Canoe Creek|96|Stream located north of Decorah. T99N, R8W, S2, 11, 14, 15, 22|0.5
+700|TTS96|Twin Springs|96|Located on the west side of Decorah in Twin Springs City Park.|0.5
+701|ROB43|Round Bend|43|NULL|0.5
+702|D2592|Lake Darling Watershed Pond 25|92|NULL|0.47
+703|D0592|Lake Darling Watershed Pond 5|92|NULL|0.43
+704|D0992|Lake Darling Watershed Pond 9|92|NULL|0.43
+705|D0192|Lake Darling Watershed Pond 1|92|NULL|0.42
+706|D2292|Lake Darling Watershed Pond 22|92|NULL|0.42
+707|TWF03|West Branch French Creek|3|Located on French Creek Wildlife Management Area 6 miles northeast of Waukon.|0.4
+708|D0492|Lake Darling Watershed Pond 4|92|NULL|0.37
+709|D2492|Lake Darling Watershed Pond 24|92|NULL|0.32
+710|D2192|Lake Darling Watershed Pond 21|92|NULL|0.3
+711|TBO96|Bohemian Creek|96|Located about 1.5 miles east of Protivin.|0.3
+712|D1892|Lake Darling Watershed Pond 18|92|NULL|0.28
+713|TDS33|Dutton Springs Creek|33|Located 3 miles northeast of West Union in Dutton''s Cave Park.|0.27
+714|D0392|Lake Darling Watershed Pond 3|92|NULL|0.23
+715|D1092|Lake Darling Watershed Pond 10|92|NULL|0.21
+716|TDS96|Dunning Spring|96|Located in Dunnings Spring Park on the north side of Decorah off Ice Cave Road.|0.2
+717|TMS31|Monastery Creek|31|Monastery Creek can be accessed through the Dubuque County Swiss Valley Nature Preserve about 4 miles SW of Dubuque off of Swiss Valley Rd.|0.2
+718|D0292|Lake Darling Watershed Pond 2|92|NULL|0.13
